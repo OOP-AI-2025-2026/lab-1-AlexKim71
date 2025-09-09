@@ -41,7 +41,7 @@ public class Main {
         return (a >= 13 && a <= 19) || (b >= 13 && b <= 19) || (c >= 13 && c <= 19);
     }
 
-    // ======== Boolean expressions ========
+    // ======== Boolean expressions =========
     public boolean sleepIn(boolean weekday, boolean vacation) {
         return !weekday || vacation;
     }
