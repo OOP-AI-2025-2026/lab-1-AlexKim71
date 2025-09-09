@@ -6,7 +6,7 @@ public class Main {
 
         Main m = new Main(); // создаём объект, чтобы вызвать методы
 
-        // ======== Проверка Logical operations ========
+        // ======== Проверка Logical operations =========
         System.out.println(m.icyHot(-5, 120));
         System.out.println(m.in1020(12, 99));
         System.out.println(m.hasTeen(13, 20, 10));
